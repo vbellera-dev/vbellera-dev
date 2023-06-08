@@ -1,4 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile;Bienvenidos+a+mi+perfil+de+GitHub" alt="Typing SVG" /></a>
+<img width="20%" src="https://portfolio-victor-iexsje8h6-vbellera-dev.vercel.app/assets/vicdev-6ba812f3.png">
+
+
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Catamaran&size=26&pause=1000&color=D07F60&width=435&lines=Welcome+to+my+GitHub+profile;Bienvenidos+a+mi+perfil+de+GitHub" alt="Typing SVG" /></a>
+</p>
+  
+<a href="https://github.com/vbellera-dev">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbellera-dev&theme=dracula&layout=compact"/>
+</a>
 
 <!--
 **vbellera-dev/vbellera-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
